@@ -227,7 +227,7 @@ tr td ol li {
 @media (max-width: 480px) {
     
     .logo a {
-        font-size: 20px;
+        font-size: 10px;
         margin-left: 5px;
     }
 
@@ -237,8 +237,12 @@ tr td ol li {
         height: 70px;
     }
 
+    nav ul li {
+        float: left;
+    }
+
     nav ul li a {
-        font-size: 8px;
+        font-size: 5px;
         padding: 1px;
         margin-right: 5px;
     }
