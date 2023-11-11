@@ -233,7 +233,7 @@ tr td ol li {
 @media (max-width: 480px) {
     
     .logo a {
-        font-size: 10px;
+        font-size: 15px;
         margin-left: 5px;
     }
 
@@ -280,7 +280,7 @@ tr td ol li {
     }
 
     table {
-        width: 400px;
+        width: 350px;
         height: 200px;
         margin: auto;
         border: 1px solid #364F6B;
@@ -346,8 +346,8 @@ tr td ol li {
     }
 
     .kenangan img {
-        width: 200px;
-        height: 150px;
+        width: 100px;
+        height: 70px;
         padding: 5px;
     }
 
