@@ -7,7 +7,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
-    background-color: #DFCCFB;
+    background-color: #A0A6BE;
 }
 .wrapper {
     width: 1100px;
@@ -64,7 +64,9 @@ hr {
     border: 1px solid #364F6B;
 }
 img {
-    border-radius: 40%;
+    width: 500px;
+    height: 500px;
+    border-radius: 45%;
 }
 section {
     margin: auto;
@@ -184,6 +186,10 @@ tr td ol li {
 
 /* SOSIAL MEDIA */
 
+.fotoig {
+    width: 200px;
+    height: 200px;
+}
 .linkinstagram {
     background-color: #AE445A;
     color: white;
@@ -274,7 +280,7 @@ tr td ol li {
     }
 
     table {
-        width: 450px;
+        width: 400px;
         height: 200px;
         margin: auto;
         border: 1px solid #364F6B;
